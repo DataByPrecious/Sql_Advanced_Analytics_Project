@@ -1,6 +1,7 @@
 # SQL-Advanced-Portfolio-Project
 
 ## 📘 Overview
+Welcome to **SQL Advanced Analytics Project** repository
 This project demonstrates how to use **SQL** to perform in-depth analysis on a relational dataset containing information about **products**, **customers**, and **sales dataset**. The goal is to extract actionable insights using advanced SQL techniques and effective data exploration.
 
 ---
@@ -43,16 +44,15 @@ The project is based on three core tables:
 
 ---
 
+## 🛠️ License
 
----
-
-## License
-For easy and free access, the **MIT LICENSE** was used
+This project is licensed under the [MIT License](LICENSE).You are free to use, modify, and share this project with proper attribution
 
 ---
 
 ## 📮 Contact
-For questions or suggestions, feel free to reach out:
-**OkorohPrecious** – [GitHub Profile](https://github.com/DataByPrecious)  
+
+Hi there! I'm **Okoroh Precious**, also known as **DataByPrecious**, I am a Data Analyst on a mission to share knowledge and project materials.
+ – [GitHub Profile](https://github.com/DataByPrecious)  
 
 
