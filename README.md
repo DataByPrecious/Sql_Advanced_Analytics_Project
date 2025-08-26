@@ -2,7 +2,6 @@
 
 ## 📘 Overview
 Welcome to the **SQL Advanced Analytics Project** repository.
-
 This project demonstrates how to use **SQL** to perform in-depth analysis on a relational dataset containing information about **products**, **customers**, and **sales dataset**. The goal is to extract actionable insights using advanced SQL techniques and effective data exploration.
 
 ---
